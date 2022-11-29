@@ -15,4 +15,9 @@ double Calculator::Calculate(double x, char oper, double y)
     default:
         return 0.0;
     }
+    
+}
+
+while (i != 0) {
+    
 }
